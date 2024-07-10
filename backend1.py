@@ -132,7 +132,7 @@ import openai
 import re
 import mysql.connector
 
-openai.api_key = 'sk-proj-G0XB0f0wCmH1cQ0uH4VlT3BlbkFJ7D2aieoAPIeNE8E4o8JP'
+openai.api_key = 'openai-api-key'
 
 config = {
   'user': 'root',
