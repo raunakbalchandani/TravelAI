@@ -1,7 +1,7 @@
 # import sqlite3
 # import openai
 
-# openai.api_key = 'sk-proj-G0XB0f0wCmH1cQ0uH4VlT3BlbkFJ7D2aieoAPIeNE8E4o8JP'
+# openai.api_key = 'openai-api-key'
 
 # def get_packages(query):
 #     conn = sqlite3.connect('travel_packages.db')
