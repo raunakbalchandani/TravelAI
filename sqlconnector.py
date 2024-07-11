@@ -108,5 +108,3 @@ if connection is not None:
 if connection.is_connected():
     connection.close()
     print("MySQL connection is closed")
-
-
